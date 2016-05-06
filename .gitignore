@@ -1,3 +1,9 @@
 x64/
 CMakeFiles/
 cmake_install.cmake
+ALL_BUILD.vcxproj.filters
+ALL_BUILD.vcxproj
+tres_passer.sdf
+tres_passer.sln
+tres_passer.vcxproj
+tres_passer.vcxproj.filters
