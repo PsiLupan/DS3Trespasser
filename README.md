@@ -8,7 +8,7 @@ Settings:
 Away on Steam will block all non-friend connection.
 Otherwise, all non-blocked and ignored players can join. This means you can blocks players to prevent them from joining your game. As of the earliest implementation, however, blocked players will remain
 
-#USE AT YOUR OWN RISK
+# USE AT YOUR OWN RISK
 
-#To Compile
+## To Compile
 In order to compile on Windows, you'll need CMake installed and a copy of hacklib. Trespasser should be placed in the inner src directory of hacklib with the other projects. This should generate a 64-bit Visual Studio solution, which you can the compile to create the necessary DLL. If not, you'll need to manually tweak the settings.
